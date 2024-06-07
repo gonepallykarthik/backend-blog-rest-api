@@ -23,7 +23,7 @@ Backend REST API Assignment
 Clone the project
 
 ```bash
-  git clone https://github.com/gonepallykarthik/backend-blog-api.git
+  git clone https://github.com/gonepallykarthik/backend-blog-rest-api.git
 ```
 
 Go to the project directory
